@@ -1,0 +1,5 @@
+{
+  "name": "teachAI™ - Word Search Generator",
+  "description": "An application for teachers to generate custom word search puzzles. Users can input a list of words, specify grid dimensions, and select permitted word directions to create a printable and solvable puzzle.",
+  "requestFramePermissions": []
+}
